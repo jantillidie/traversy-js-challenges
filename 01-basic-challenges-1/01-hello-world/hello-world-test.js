@@ -1,4 +1,4 @@
-const helloWorld = require('./hello-world');
+const helloWorld = require('./hello-world.js');
 
 test("Returning 'Hello, World!' as a string", () => {
   const result = helloWorld();
